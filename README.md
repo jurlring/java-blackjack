@@ -58,7 +58,7 @@
 ## GameResult
 
 - [x] Gamers의 게임 결과를 계산한다.
-- [x] Dealer의 게임 결괴를 계산한다.
+- [x] Dealer의 게임 결과를 계산한다.
 
 ## BetMoney
 - [x] [Error] 배팅금액이 음수일 경우 예외를 발생 시킨다.
